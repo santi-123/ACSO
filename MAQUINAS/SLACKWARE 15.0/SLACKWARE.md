@@ -334,3 +334,7 @@ Agregamos tarjeta de red en modo *"Puente adaptador"*, e iniciamos la configurac
 </div>
 
 14. Nos iniciara la siguiente ventana donde daremos enter y procederemos hacer las pruebas de red.
+
+<div style="text-align: center;">
+    <img src="image-62.png" width="600px" height="300px">
+</div>
